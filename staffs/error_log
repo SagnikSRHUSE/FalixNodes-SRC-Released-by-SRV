@@ -1,0 +1,423 @@
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:39 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:39 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:39 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:39 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:40 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:40 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:40 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:40 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:41 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:41 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:41 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:41 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:42 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:42 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:42 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:42 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:43 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:43 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:43 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:43 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:44 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:44 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:44 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:44 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:45 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:45 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:45 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:45 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:45 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:45 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:45 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:45 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:45 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:45 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:45 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:45 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:45 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:45 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:45 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:45 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:46 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:46 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:46 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:46 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:47 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:47 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:47 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:47 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:48 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:48 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:48 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:48 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:49 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:49 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:49 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:49 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:50 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:50 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:50 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:50 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:51 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:51 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:51 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:51 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:52 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:52 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:52 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:52 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:53 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:53 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:53 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:53 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:53 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:53 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:53 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:53 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:53 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:53 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:53 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:53 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:53 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:53 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:53 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:53 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:54 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:54 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:54 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:54 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:55 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:55 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:55 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:55 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:55 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:55 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:55 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:55 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:55 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:55 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:55 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:55 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:56:55 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:56:55 America/New_York] PHP Stack trace:
+[26-May-2019 11:56:55 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 11:56:55 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/index.php:105
+[26-May-2019 11:57:08 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:57:08 America/New_York] PHP Stack trace:
+[26-May-2019 11:57:08 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/searchServers_submit.php:0
+[26-May-2019 11:57:08 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/searchServers_submit.php:85
+[26-May-2019 11:57:08 America/New_York] PHP Notice:  Undefined index: user in /home/falizusm/public_html/staffs/global.php on line 93
+[26-May-2019 11:57:08 America/New_York] PHP Stack trace:
+[26-May-2019 11:57:08 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/searchServers_submit.php:0
+[26-May-2019 11:57:08 America/New_York] PHP   2. DiscordIdToUsername() /home/falizusm/public_html/staffs/searchServers_submit.php:85
+[26-May-2019 12:03:38 America/New_York] PHP Notice:  Undefined index: attributes in /home/falizusm/public_html/staffs/index.php on line 95
+[26-May-2019 12:03:38 America/New_York] PHP Stack trace:
+[26-May-2019 12:03:38 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 12:03:38 America/New_York] PHP Notice:  Undefined index: attributes in /home/falizusm/public_html/staffs/index.php on line 96
+[26-May-2019 12:03:38 America/New_York] PHP Stack trace:
+[26-May-2019 12:03:38 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 12:03:38 America/New_York] PHP Notice:  Undefined index: attributes in /home/falizusm/public_html/staffs/index.php on line 97
+[26-May-2019 12:03:38 America/New_York] PHP Stack trace:
+[26-May-2019 12:03:38 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 12:03:38 America/New_York] PHP Notice:  Undefined index: attributes in /home/falizusm/public_html/staffs/index.php on line 98
+[26-May-2019 12:03:38 America/New_York] PHP Stack trace:
+[26-May-2019 12:03:38 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0
+[26-May-2019 12:03:38 America/New_York] PHP Notice:  Undefined index: attributes in /home/falizusm/public_html/staffs/index.php on line 99
+[26-May-2019 12:03:38 America/New_York] PHP Stack trace:
+[26-May-2019 12:03:38 America/New_York] PHP   1. {main}() /home/falizusm/public_html/staffs/index.php:0

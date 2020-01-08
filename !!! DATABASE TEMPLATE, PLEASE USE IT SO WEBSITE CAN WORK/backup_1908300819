@@ -1,0 +1,364 @@
+-- MySQL dump 10.14  Distrib 5.5.60-MariaDB, for Linux (x86_64)
+--
+-- Host: localhost    Database: admin_falixnodes
+-- ------------------------------------------------------
+-- Server version	5.5.60-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `allowed_ips`
+--
+
+DROP TABLE IF EXISTS `allowed_ips`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `allowed_ips` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `ip` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=12 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `allowed_ips`
+--
+
+LOCK TABLES `allowed_ips` WRITE;
+/*!40000 ALTER TABLE `allowed_ips` DISABLE KEYS */;
+/*!40000 ALTER TABLE `allowed_ips` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `backups`
+--
+
+DROP TABLE IF EXISTS `backups`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `backups` (
+  `backup_id` int(11) NOT NULL AUTO_INCREMENT,
+  `owner_id` text NOT NULL,
+  `status` text NOT NULL,
+  `server_id` text NOT NULL,
+  `download_link` text NOT NULL,
+  `time` text NOT NULL,
+  PRIMARY KEY (`backup_id`)
+) ENGINE=MyISAM AUTO_INCREMENT=570 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `backups`
+--
+
+LOCK TABLES `backups` WRITE;
+/*!40000 ALTER TABLE `backups` DISABLE KEYS */;
+INSERT INTO `backups` VALUES (569,'217183574082846720','done','1705','http://backups01.falixnodes.host/-417190.zip','1567076433'),(568,'495127607059152896','done','1053','http://backups01.falixnodes.host/-687883.zip','1567046701'),(567,'590286395143356417','done','1246','http://backups01.falixnodes.host/-636015.zip','1567034729'),(566,'495011366730727424','done','456','http://backups01.falixnodes.host/-709022.zip','1567026158'),(565,'593123633099177985','done','186','http://backups01.falixnodes.host/-811964.zip','1567020549'),(564,'607249117399482369','done','1915','http://backups01.falixnodes.host/-914854.zip','1567017917'),(563,'441128335464988672','done','203','http://backups01.falixnodes.host/-491642.zip','1567017020'),(562,'286315499120230400','done','115','http://backups01.falixnodes.host/-448262.zip','1567010782'),(561,'603659667553386506','done','2459','http://backups01.falixnodes.host/-887528.zip','1566946787'),(560,'466925930263347201','done','2524','http://backups01.falixnodes.host/-692214.zip','1566945994'),(559,'343782264326324225','done','2452','http://backups01.falixnodes.host/-436209.zip','1566945572'),(558,'343782264326324225','done','2452','http://backups01.falixnodes.host/9a4856ca-ee99-4268-be4c-24e17d5f0b11-136833.zip','1566938418'),(557,'335807898070286336','done','2169','http://backups01.falixnodes.host/-879000.zip','1566937468'),(556,'405425650422382602','done','167','http://backups01.falixnodes.host/55eb9219-f357-446e-b86c-499a9bc087eb-090191.zip','1566934554'),(555,'343782264326324225','done','2452','http://backups01.falixnodes.host/9a4856ca-ee99-4268-be4c-24e17d5f0b11-330319.zip','1566931902'),(553,'244904647049871360','done','7','http://backups01.falixnodes.host/54c034ad-3d56-42ed-8d2f-d81bce0b7103-135967.zip','1566930095'),(554,'273317297198989312','done','1252','http://backups01.falixnodes.host/a6b4fc69-4b39-41c1-b968-9f7d7c7a82fd-625009.zip','1566931348'),(552,'333179344794943489','done','1894','http://backups01.falixnodes.host/28d437af-dcc6-40d0-82e1-cba48c6d4b6e-438469.zip','1566929873'),(551,'375357134919172096','done','246','http://backups01.falixnodes.host/3667c264-6b70-4faa-8465-b6c507c20a82-430077.zip','1566929439'),(550,'261487490769092608','done','1224','http://backups01.falixnodes.host/dc68e691-8b10-4d27-8a69-fe7cf0f3e503-236753.zip','1566929013'),(549,'301073031801995264','done','2455','http://backups01.falixnodes.host/cb44b226-90c4-473c-b45a-99b9b994ed34-854340.zip','1566928732');
+/*!40000 ALTER TABLE `backups` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `join_for_resources_servers`
+--
+
+DROP TABLE IF EXISTS `join_for_resources_servers`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `join_for_resources_servers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `server_id` text NOT NULL,
+  `extra_ram` int(11) NOT NULL,
+  `extra_servers` int(11) NOT NULL,
+  `extra_sites` int(11) NOT NULL,
+  `extra_cores` int(11) NOT NULL,
+  `extra_disk` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `join_for_resources_servers`
+--
+
+LOCK TABLES `join_for_resources_servers` WRITE;
+/*!40000 ALTER TABLE `join_for_resources_servers` DISABLE KEYS */;
+INSERT INTO `join_for_resources_servers` VALUES (8,'599333335243685924',1000,1,0,0,2000);
+/*!40000 ALTER TABLE `join_for_resources_servers` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `levels`
+--
+
+DROP TABLE IF EXISTS `levels`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `levels` (
+  `level` int(11) NOT NULL,
+  `ram_balance` int(11) NOT NULL,
+  `max_disk` int(11) NOT NULL,
+  `max_servers` int(11) NOT NULL,
+  `max_sites` int(11) NOT NULL,
+  `max_cores` int(11) NOT NULL,
+  `title` text NOT NULL,
+  `price` int(11) NOT NULL,
+  `ismonthly` int(11) NOT NULL,
+  `makeiteasytoedit` int(11) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`makeiteasytoedit`)
+) ENGINE=InnoDB AUTO_INCREMENT=29 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `levels`
+--
+
+LOCK TABLES `levels` WRITE;
+/*!40000 ALTER TABLE `levels` DISABLE KEYS */;
+/*!40000 ALTER TABLE `levels` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `payment_handlers`
+--
+
+DROP TABLE IF EXISTS `payment_handlers`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `payment_handlers` (
+  `id` text NOT NULL,
+  `parameters` text NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `payment_handlers`
+--
+
+LOCK TABLES `payment_handlers` WRITE;
+/*!40000 ALTER TABLE `payment_handlers` DISABLE KEYS */;
+/*!40000 ALTER TABLE `payment_handlers` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `safepaypal`
+--
+
+DROP TABLE IF EXISTS `safepaypal`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `safepaypal` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `txn_id` text NOT NULL,
+  `txn_state` text NOT NULL,
+  `txn_total` int(11) NOT NULL,
+  `txn_currency` text NOT NULL,
+  `payment_type` text NOT NULL,
+  `sender_email` text NOT NULL,
+  `sender_status` text NOT NULL,
+  `custom` text NOT NULL,
+  `processed_by_ipn` int(11) NOT NULL,
+  `being_processed_by_ipn` int(11) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `safepaypal`
+--
+
+LOCK TABLES `safepaypal` WRITE;
+/*!40000 ALTER TABLE `safepaypal` DISABLE KEYS */;
+/*!40000 ALTER TABLE `safepaypal` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `servers`
+--
+
+DROP TABLE IF EXISTS `servers`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `servers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `pterodactyl_serverid` int(11) NOT NULL,
+  `owner_id` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=7743 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `servers`
+--
+
+LOCK TABLES `servers` WRITE;
+/*!40000 ALTER TABLE `servers` DISABLE KEYS */;
+/*!40000 ALTER TABLE `servers` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `sites`
+--
+
+DROP TABLE IF EXISTS `sites`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `sites` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `owner_id` text NOT NULL,
+  `plesk_customerid` int(11) NOT NULL,
+  `plesk_subscription_id` int(11) NOT NULL,
+  `plesk_username` text NOT NULL,
+  `plesk_password` text NOT NULL,
+  `domain` text NOT NULL,
+  `node` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=165 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `sites`
+--
+
+LOCK TABLES `sites` WRITE;
+/*!40000 ALTER TABLE `sites` DISABLE KEYS */;
+/*!40000 ALTER TABLE `sites` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `staffs`
+--
+
+DROP TABLE IF EXISTS `staffs`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `staffs` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` text NOT NULL,
+  `password` text NOT NULL,
+  `level` text NOT NULL,
+  `discord_id` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=12 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `staffs`
+--
+
+LOCK TABLES `staffs` WRITE;
+/*!40000 ALTER TABLE `staffs` DISABLE KEYS */;
+/*!40000 ALTER TABLE `staffs` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `staffs_logs`
+--
+
+DROP TABLE IF EXISTS `staffs_logs`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `staffs_logs` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `staff_id` int(11) NOT NULL,
+  `log_message` text NOT NULL,
+  `time` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=52 DEFAULT CHARSET=utf8;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `staffs_logs`
+--
+
+LOCK TABLES `staffs_logs` WRITE;
+/*!40000 ALTER TABLE `staffs_logs` DISABLE KEYS */;
+/*!40000 ALTER TABLE `staffs_logs` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `users`
+--
+
+DROP TABLE IF EXISTS `users`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `discord_id` text NOT NULL,
+  `discord_email` text NOT NULL,
+  `level` int(11) NOT NULL,
+  `extra_ram` int(11) NOT NULL,
+  `extra_servers` int(11) NOT NULL,
+  `extra_sites` int(11) NOT NULL,
+  `extra_cores` int(11) NOT NULL,
+  `extra_disk` int(11) NOT NULL,
+  `pterodactyl_userid` int(11) NOT NULL,
+  `pterodactyl_username` text NOT NULL,
+  `pterodactyl_password` text NOT NULL,
+  `register_ip` text NOT NULL,
+  `lastlogin_ip` text NOT NULL,
+  `plan_expiry` int(255) NOT NULL,
+  `lastbackup_time` int(255) NOT NULL,
+  `joined_servers` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2782 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `users`
+--
+
+LOCK TABLES `users` WRITE;
+/*!40000 ALTER TABLE `users` DISABLE KEYS */;
+/*!40000 ALTER TABLE `users` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Table structure for table `webhosting_nameservers`
+--
+
+DROP TABLE IF EXISTS `webhosting_nameservers`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `webhosting_nameservers` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `node` text NOT NULL,
+  `ns1` text NOT NULL,
+  `ns2` text NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `webhosting_nameservers`
+--
+
+LOCK TABLES `webhosting_nameservers` WRITE;
+/*!40000 ALTER TABLE `webhosting_nameservers` DISABLE KEYS */;
+INSERT INTO `webhosting_nameservers` VALUES (1,'webhost01','webhost01-ns1.falixnodes.host','webhost01-ns2.falixnodes.host');
+/*!40000 ALTER TABLE `webhosting_nameservers` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
+-- Dumping routines for database 'admin_falixnodes'
+--
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2019-08-30  8:19:06
